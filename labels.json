@@ -1,0 +1,16 @@
+[
+  { "name": "semver: major", "color": "#FF0000" },
+  { "name": "semver: minor", "color": "#EB6420" },
+  { "name": "semver: patch", "color": "#FBCA04" },
+  { "name": "tools", "color": "#C7DEF8" },
+  { "name": "tools: egg-bin", "color": "#C7DEF8" },
+  { "name": "tools: egg-mock", "color": "#C7DEF8" },
+  { "name": "tools: egg-init", "color": "#C7DEF8" },
+  { "name": "type: feature", "color": "#0052CC" },
+  { "name": "type: improve", "color": "#D4C5F9" },
+  { "name": "type: bug", "color": "#FF0000" },
+  { "name": "type: test", "color": "#D4C5F9" },
+  { "name": "type: doc", "color": "#D4C5F9" },
+  { "name": "type: release", "color": "#D4C5F9" },
+  { "name": "type: discussion", "color": "#D4C5F9" }
+]
