@@ -10,7 +10,7 @@ const token = getToken();
 // Spawn github-labels
 const githubLabels = path.join(__dirname, 'node_modules/.bin/labels');
 const args = [
-  '-c', path.join(__dirname, 'labels.json'), 'eggjs/egg-labels',
+  '-c', path.join(__dirname, 'labels.json'), 'eggjs/egg',
   '-t', token,
 ];
 const env = Object.assign({}, process.env, { HOME: __dirname });
