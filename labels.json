@@ -10,10 +10,14 @@
   { "name": "type: doc", "color": "#D4C5F9" },
   { "name": "type: release", "color": "#D4C5F9" },
   { "name": "type: discussion", "color": "#D4C5F9" },
+  { "name": "type: document", "color": "#D4C5F9" },
+  { "name": "type: example", "color": "#D4C5F9" },
+  { "name": "core", "color": "#D93F0B" },
   { "name": "core: bodyparser", "color": "#D93F0B" },
   { "name": "core: ready", "color": "#D93F0B" },
   { "name": "core: router", "color": "#D93F0B" },
   { "name": "core: urllib", "color": "#D93F0B" },
+  { "name": "core: messenger", "color": "#D93F0B" },
   { "name": "deps: egg-core", "color": "#006B75" },
   { "name": "deps: egg-cluster", "color": "#006B75" },
   { "name": "deps: egg-logger", "color": "#006B75" },
@@ -44,6 +48,6 @@
   { "name": "plugin: egg-watcher", "color": "#1C74D7" },
   { "name": "plugin: egg-userrole", "color": "#1C74D7" },
   { "name": "plugin: egg-static", "color": "#1C74D7" },
-  { "name": "plugin: egg-static", "color": "#1C74D7" },
+  { "name": "plugin: egg-tracelog", "color": "#1C74D7" },
   { "name": "plugin: egg-session", "color": "#1C74D7" }
 ]
