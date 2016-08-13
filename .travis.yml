@@ -5,6 +5,7 @@ language: node_js
 node_js:
  - "6"
 
-script: npm run lint && npm test
-after_success:
-  npm run sync
+env:
+ - secure: "fUGSe6Dh7mjrpxrojpV/1Wg24+jYga8ocK1KcxL/HPO3nrngbP+31zeRiPtlq3o1Z7my+dk7gwJPoJM59iipDmug5P5PKkqAk67AiO+RKrqSAwEYAmOsxhnicdbWfwwcA3D2OcLulwCDsRh6YVx1au+ynZp7eiJtFIqcYnEhdDQ17Gu2gCspSwQ9TY5KFPzgsoPyf10MM98TaWUuo4kmPCfMUFrRYpfQTl5u3MWvz2qbvXpMxJMPntxXFiBd5RtMGcKe1LlsYiJWJbCxcOVCt9j8TMbS5j8ofsSJk6CcgyXC4fqQ4FN8s62hh1OIF+88SwxoaX2QcKFoFFWifK7sxSP8hoZt4h7d2AlA6rKUhNFz0CNMtvEjwmatGZLT5iXyoAvI0wbNYZCYglj1dXe7wq8cId3L0cQwRTQ9euY2QYBau7jVSeeiNZkWYBlRbIi3rS1VsxFOOAFY5L4wqp0zZrKnN6PqZ4oCk/yaplxDUCOxCZeX95CoqEi929c52d+RC5h/VvO31qvy0sDRKoGNh0lQwLct7tUbGtyl8RubJUrkbpgyl4ZplF2BECNI+3quHRT04hPT7hqrl/XStNMzs/cIkRMsyoVDm2TtYc2frx7TqV9hcvk4gjFWepocpb1EUuybF7oA0iiVwyO4bDLZLxQ2ufN2nKVE1DeRbVAz+k0="
+
+script: npm run lint && npm test && npm run sync
