@@ -34,7 +34,7 @@
   { "name": "plugin: egg-alinode", "color": "#1C74D7" },
   { "name": "plugin: egg-schedule", "color": "#1C74D7" },
   { "name": "plugin: egg-rest", "color": "#1C74D7" },
-  { "name": "plugin: egg-logrotater", "color": "#1C74D7" },
+  { "name": "plugin: egg-logrotator", "color": "#1C74D7" },
   { "name": "plugin: egg-dingtalk", "color": "#1C74D7" },
   { "name": "plugin: egg-view-nunjucks", "color": "#1C74D7" },
   { "name": "plugin: egg-multipart", "color": "#1C74D7" },
