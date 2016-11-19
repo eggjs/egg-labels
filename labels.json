@@ -49,5 +49,8 @@
   { "name": "plugin: egg-userrole", "color": "#1C74D7" },
   { "name": "plugin: egg-static", "color": "#1C74D7" },
   { "name": "plugin: egg-tracelog", "color": "#1C74D7" },
-  { "name": "plugin: egg-session", "color": "#1C74D7" }
+  { "name": "plugin: egg-session", "color": "#1C74D7" },
+  { "name": "plugin: egg-boilerplate", "color": "#1C74D7" },
+  { "name": "plugin: egg-logview", "color": "#1C74D7" },
+  { "name": "plugin: egg-path-match", "color": "#1C74D7" }
 ]
