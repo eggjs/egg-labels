@@ -8,6 +8,7 @@
   { "name": "type: bug", "color": "#FF0000" },
   { "name": "type: test", "color": "#D4C5F9" },
   { "name": "type: doc", "color": "#D4C5F9" },
+  { "name": "type: proposals", "color": "#D4C5F9" },
   { "name": "type: release", "color": "#D4C5F9" },
   { "name": "type: discussion", "color": "#D4C5F9" },
   { "name": "type: document", "color": "#D4C5F9" },
@@ -52,5 +53,6 @@
   { "name": "plugin: egg-session", "color": "#1C74D7" },
   { "name": "plugin: egg-boilerplate", "color": "#1C74D7" },
   { "name": "plugin: egg-logview", "color": "#1C74D7" },
-  { "name": "plugin: egg-path-match", "color": "#1C74D7" }
+  { "name": "plugin: egg-path-match", "color": "#1C74D7" },
+  { "name": "plugin: egg-scripts", "color": "#1C74D7" }
 ]
