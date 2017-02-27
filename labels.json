@@ -30,6 +30,7 @@
   { "name": "tools: egg-mock", "color": "#C7DEF8" },
   { "name": "tools: egg-init", "color": "#C7DEF8" },
   { "name": "tools: egg-ci", "color": "#C7DEF8" },
+  { "name": "tools: egg-scripts", "color": "#C7DEF8" },
   { "name": "tools: egg-dependencies", "color": "#C7DEF8" },
   { "name": "plugin: egg-onerror", "color": "#1C74D7" },
   { "name": "plugin: egg-alinode", "color": "#1C74D7" },
@@ -53,6 +54,5 @@
   { "name": "plugin: egg-session", "color": "#1C74D7" },
   { "name": "plugin: egg-boilerplate", "color": "#1C74D7" },
   { "name": "plugin: egg-logview", "color": "#1C74D7" },
-  { "name": "plugin: egg-path-match", "color": "#1C74D7" },
-  { "name": "plugin: egg-scripts", "color": "#1C74D7" }
+  { "name": "plugin: egg-path-match", "color": "#1C74D7" }
 ]
