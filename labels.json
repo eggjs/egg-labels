@@ -7,7 +7,6 @@
   { "name": "type: improve", "color": "#D4C5F9" },
   { "name": "type: bug", "color": "#FF0000" },
   { "name": "type: test", "color": "#D4C5F9" },
-  { "name": "type: doc", "color": "#D4C5F9" },
   { "name": "type: proposals", "color": "#D4C5F9" },
   { "name": "type: release", "color": "#D4C5F9" },
   { "name": "type: discussion", "color": "#D4C5F9" },
