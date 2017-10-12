@@ -56,5 +56,6 @@
   { "name": "plugin: egg-path-match", "color": "#1C74D7" },
   { "name": "plugin: egg-mongoose", "color": "#1C74D7" },
   { "name": "plugin: egg-sequelize", "color": "#1C74D7" },
-  { "name": "plugin: egg-passport", "color": "#1C74D7" }
+  { "name": "plugin: egg-passport", "color": "#1C74D7" },
+  { "name": "plugin: egg-socket.io", "color": "#1C74D7" }
 ]
